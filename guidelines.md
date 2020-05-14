@@ -8,3 +8,8 @@
 
 
 email me at adinoyih6@gmail.com.......
+
+
+Frontenders
+
+consume the api using your favorite frameworks>>>> i recommend Vue.js
